@@ -13,8 +13,8 @@ profile:
     <p>Kavli Neuroscience Discovery Institute</p>
     <p>Baltimore, MD</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -30,7 +30,3 @@ latest_posts:
 I'm a second-year PhD student in [Adam Charles’s lab](https://www.bme.jhu.edu/ascharles/), where I recently started working on developing algorithms for closed-loop brain-computer interfaces, with a focus on cerebellar applications. My focus is on using data from microelectrode recordings to decode the brain’s dynamical states and design stimulation protocols that could eventually support cerebellar prostheses.
 
 More broadly, I’m excited about applying ideas from dynamical systems theory, machine learning, and control systems to understand and interact with neural circuits in real time.
-
- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
