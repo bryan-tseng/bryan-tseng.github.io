@@ -1,36 +1,63 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Bryan Tseng",
+    "label": "Graduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "btseng2@jh.edu",
+    "url": "https://bryan-tseng.github.io/",
+    "summary": "Graduate student at Johns Hopkins University, working on algorithms for closed-loop BCIs targeting the cerebellum. Broadly interested in dynamical systems theory, machine learning, and control systems.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "BlueSky",
+        "username": "bryantseng.bsky.social",
+        "url": "https://bsky.app/profile/bryantseng.bsky.social"
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD",
+      "url": "https://www.bme.jhu.edu/ascharles/",
+      "area": "Biomedical Engineering (Neuroengineering)",
+      "studyType": "PhD",
+      "startDate": "2024-08",
+      "endDate": "2029-05",
+      "score": "10",
+      "courses": ["Digital Signals Processing, Principles of Complex Networked Systems, Neural Signals and Computation"]
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "url": "https://www.neurostat.mit.edu/",
+      "area": "Computational Neuroscience",
+      "studyType": "Technical Associate",
+      "startDate": "2020-08",
+      "endDate": "2024-05",
+      "score": "10"
+    },
+    {
+      "institution": "Boston University",
+      "location": "Boston, MA",
+      "url": "https://www.bu.edu/math/",
+      "area": "Bachelor of Art in Mathematics – Specialization in Statistics<br>Bachelor of Art in Biology – Specialization in Cell Biology, Molecular Biology & Genetics<br>Minor in Economics",
+      "studyType": "BA",
+      "startDate": "2016-09",
+      "endDate": "2020-05",
+      "score": "10",
+      "courses": ["Machine Learning, Time Series", "Generalized Linear Models", "Mathematical Statistics", "Stochastic Processes"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Neuroscience Statistics Research Laboratory, MIT",
+      "position": "Technical Associate",
+      "location": "Cambridge, MA",
+      "url": "https://www.neurostat.mit.edu/",
+      "startDate": "2020-08",
+      "endDate": "2024-05",
+      "summary": "Multitaper spectral analysis, state-space analysis of EEG data, point-process and state-space methods for EKG and electrodermal activity, antidepressant effects of electroconvulsive therapy and propofol",
+      "highlights": ["Computational Neuroscience", "Anesthesia", "Neuroscience"]
     }
   ],
   "volunteer": [
@@ -42,20 +69,7 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."]
     }
   ],
   "awards": [
@@ -65,50 +79,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -151,13 +121,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
@@ -166,25 +136,12 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Dynamical Systems",
+        "Signal Processing",
+        "Machine Learning",
+        "Control Systems",
+        "NeuroAI"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
