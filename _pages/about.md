@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second-year PhD student in [Adam Charles’s lab](https://www.bme.jhu.edu/ascharles/), where I recently started working on developing algorithms for closed-loop brain-computer interfaces, with a focus on cerebellar applications. My focus is on using data from microelectrode recordings to decode the brain’s dynamical states and design stimulation protocols that could eventually support cerebellar prostheses.
+I'm a second-year PhD student working with [Adam Charles](https://www.bme.jhu.edu/ascharles/), where I recently started working on developing algorithms for closed-loop brain-computer interfaces, with a focus on cerebellar applications. My focus is on using data from microelectrode recordings to decode the brain’s dynamical states and design stimulation protocols that could eventually support cerebellar prostheses.
 
 More broadly, I’m excited about applying ideas from dynamical systems theory, machine learning, and control systems to understand and interact with neural circuits in real time.
