@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a second-year PhD student working with Dr. Adam Charles at the 
+I'm a second-year PhD student working with [Dr. Adam Charles](https://www.bme.jhu.edu/ascharles/bio-contact/) at the 
 [Department of Biomedical Engineering](https://www.bme.jhu.edu/).  At the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/), I am developing algorithms for closed-loop brain-computer interfaces, with a focus on cerebellar applications. My research interest is on using data from high-density electrophysiology recordings to decode the brain’s dynamical states and design stimulation protocols that could eventually support cerebellar prostheses.
 
 More broadly, I’m excited about applying ideas from dynamical systems theory, machine learning, and control systems to understand and interact with neural circuits in real time.
