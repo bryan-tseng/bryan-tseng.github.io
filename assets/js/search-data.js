@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-first-blog-post",
+            },{id: "post-our-searchable-repository-of-useful-research-can-restore-trust-in-federally-funded-basic-science-the-transmitter-neuroscience-news-and-perspectives",
+        
+          title: 'Our searchable repository of useful research can restore trust in federally funded basic... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Called U.S. Public Research Benefits, the database showcases the value of basic science in an easy and accessible format.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.thetransmitter.org/science-and-society/we-developed-a-searchable-repository-of-useful-research-to-restore-trust-in-federally-funded-basic-science/", "_blank");
+          
+        },
+      },{id: "post-first-blog-post",
         
           title: "First blog post",
         
@@ -46,17 +57,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-accepting-bitter-lesson-and-embracing-brain-s-complexity-the-transmitter-neuroscience-news-and-perspectives",
-        
-          title: 'Accepting “bitter lesson” and embracing brain’s complexity | The Transmitter: Neuroscience News and... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "To gain insight into complex neural data, we must move toward a data-driven regime, employing large models trained on vast amounts of data. Experts weigh in.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://www.thetransmitter.org/neuroai/accepting-the-bitter-lesson-and-embracing-the-brains-complexity/", "_blank");
           
         },
       },{id: "news-started-phd-program-at-jhu-bme",
@@ -94,18 +94,18 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-project-3",
+          title: 'project 3',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
