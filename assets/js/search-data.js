@@ -69,8 +69,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-paper-accepted-at-annual-review-of-neuroscience",
+          title: 'Paper accepted at Annual Review of Neuroscience',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
