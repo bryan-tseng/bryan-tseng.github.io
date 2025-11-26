@@ -59,8 +59,8 @@ ninja.data = [{
             window.open("https://www.thetransmitter.org/neuroai/accepting-the-bitter-lesson-and-embracing-the-brains-complexity/", "_blank");
           
         },
-      },{id: "news-",
-          title: '',
+      },{id: "news-monitoring-surgical-nociception-using-multisensor-physiological-models",
+          title: 'Monitoring surgical nociception using multisensor physiological models',
           description: "",
           section: "News",},{id: "news-",
           title: '',
