@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Paper accepted at Annual Review of Neuroscience [Anesthetics as Treatments for Depression: Clinical Insights and Underlying Mechanisms](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-112723-062031)
-date: 2025-02-19 00:00:00-0400
-inline: true
+title: Paper accepted at PNAS
+date: 2024-10-01 00:00:00-0400
+inline: false
 related_posts: false
 ---
 
+[Monitoring surgical nociception using multisensor physiological models](https://www.pnas.org/doi/10.1073/pnas.2319316121)
 
