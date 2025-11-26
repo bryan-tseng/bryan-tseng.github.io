@@ -117,8 +117,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: Transmitter
     posts:
-      - url: https://www.thetransmitter.org/neuroai/accepting-the-bitter-lesson-and-embracing-the-brains-complexity/
-        published_date: 2024-05-14
+      - url: https://www.thetransmitter.org/science-and-society/we-developed-a-searchable-repository-of-useful-research-to-restore-trust-in-federally-funded-basic-science/
+        published_date: 2025-11-05
 
 # -----------------------------------------------------------------------------
 # Newsletter
