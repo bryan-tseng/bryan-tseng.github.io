@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper accepted at Anesthesiology
-date: 2024-11-11 00:00:00-0400
+date: 2025-11-11 00:00:00-0400
 inline: false
 related_posts: false
 ---

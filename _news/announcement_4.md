@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joined Adam's lab
-date: 2024-11-11 00:00:00-0400
+date: 2025-04-17 00:00:00-0400
 inline: false
 related_posts: false
 ---
