@@ -67,8 +67,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-paper-accepted-at-anesthesiology",
+          title: 'Paper accepted at Anesthesiology',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
