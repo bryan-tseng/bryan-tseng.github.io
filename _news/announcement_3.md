@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Paper accepted at Anesthesiology [Clinical Electroencephalography for Anesthesiologists and Intensivists: Part 2—Physiologic Signatures and Active Management](https://journals.lww.com/anesthesiology/fulltext/2025/12000/clinical_electroencephalography_for.24.aspx)
+date: 2024-11-11 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :smile:
