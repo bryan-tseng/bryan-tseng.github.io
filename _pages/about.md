@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a second-year PhD student working with [Dr. Adam Charles](https://www.bme.jhu.edu/ascharles/bio-contact/) at the 
-[Department of Biomedical Engineering](https://www.bme.jhu.edu/).  At the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/), I am developing algorithms for closed-loop brain-computer interfaces, with a focus on cerebellar applications. My research interest is on using data from high-density electrophysiology recordings to decode the brain’s dynamical states and design stimulation protocols that could eventually support cerebellar prostheses.
+I'm a second-year PhD student working in [Dr. Adam S. Charles](https://www.bme.jhu.edu/ascharles/bio-contact/) at the 
+[Department of Biomedical Engineering](https://www.bme.jhu.edu/).  At the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/), I am developing stimulation algorithms for brain-computer interfaces and modeling the brain’s dynamical states. My focus is on using neural activity in multiple regions to learn predictive models of cerebellar and motor dynamics. Then, I design adaptive control policies that respond to neural activity in real time, with the long-term goal of supporting cerebellar prostheses.
 
-More broadly, I’m excited about applying ideas from dynamical systems theory, machine learning, and control systems to understand and interact with neural circuits in real time.
+More broadly, I’m excited about applying ideas from adaptive control systems, machine learning, high-dimensional statistics, and computational neuroscience to understand and interact with neural circuits in real time.
 
-I received my B.A. degree in Mathematics (Statistics) and Biology (CMG) from Boston University. Afterwards, I worked as a Technical Associate at the [Picower Institute of Learning and Memory](https://picower.mit.edu/) under the supervision of [Dr. Emery. N. Brown.](https://picower.mit.edu/emery-n-brown). Working at the [Neural Statistics Research Laboratory](https://www.neurostat.mit.edu/) helped me gained an interest in Computational Neuroscience.
+I received my B.A. degree in Mathematics (Statistics) and Biology (CMG) from Boston University. Then, I worked as a Technical Associate at the [Picower Institute of Learning and Memory](https://picower.mit.edu/) under the supervision of [Dr. Emery. N. Brown](https://picower.mit.edu/emery-n-brown). Working at the [Neural Statistics Research Laboratory](https://www.neurostat.mit.edu/) helped me gained an interest in Computational Neuroscience.

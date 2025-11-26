@@ -9,6 +9,7 @@ scholar_userid: bS3smvEAAAAJ # your Google Scholar ID
 research_gate_profile: Bryan-Tseng-2 # your profile on ResearchGate
 orcid_id: 0000-0001-9027-2437 # your ORCID ID
 instagram_id: bryantseng_ # your instagram id
+x_username: bryantsengneuro # your X handle
 # wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -42,7 +43,6 @@ instagram_id: bryantseng_ # your instagram id
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
