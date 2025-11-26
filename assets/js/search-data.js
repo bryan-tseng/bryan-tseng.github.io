@@ -59,19 +59,31 @@ ninja.data = [{
             window.open("https://www.thetransmitter.org/neuroai/accepting-the-bitter-lesson-and-embracing-the-brains-complexity/", "_blank");
           
         },
-      },{id: "news-monitoring-surgical-nociception-using-multisensor-physiological-models",
-          title: 'Monitoring surgical nociception using multisensor physiological models',
+      },{id: "news-started-phd-program-at-jhu-bme",
+          title: 'Started PhD Program at JHU BME',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-paper-accepted-at-pnas",
+          title: 'Paper accepted at PNAS',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-joined-adam-39-s-lab",
+          title: 'Joined Adam&amp;#39;s lab',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-paper-accepted-at-anesthesiology",
           title: 'Paper accepted at Anesthesiology',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "",
