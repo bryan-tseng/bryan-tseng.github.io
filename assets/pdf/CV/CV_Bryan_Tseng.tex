@@ -1,0 +1,217 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=0.4in]{geometry}
+\usepackage{setspace, indentfirst}
+\usepackage{xcolor, enumitem}
+\usepackage[small,compact]{titlesec}
+\usepackage{amsmath, amssymb, amsfonts, amsthm, bm, commath}
+\usepackage{graphicx, subcaption, wrapfig, caption}
+\usepackage{sidecap}
+\usepackage[superscript,biblabel]{cite}
+\usepackage{hyperref, url}
+
+\newcommand{\inlinecomment}[1]{}
+
+% -------------------- Global formatting --------------------
+\pagenumbering{gobble}
+\topmargin=-1.0in
+\headsep=0.25in
+\parindent=0pt
+
+\setlist{
+  leftmargin=*,
+  itemsep=0.5pt,
+  topsep=0.5pt,
+  parsep=0pt,
+  partopsep=0pt
+}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[runin]{\bfseries}{}{0pt}{}
+
+% ==================== DOCUMENT ====================
+\begin{document}
+
+% -------------------- Header --------------------
+\begin{center}
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+
+\begin{minipage}[t]{0.65\textwidth}
+{\Large \textbf{Bryan Tseng}}\\
+1301 Aliceanna St., Baltimore, MD 21231\\
+857-337-4445 • \href{mailto:btseng2@jh.edu}{btseng2@jh.edu}\\
+Last updated: \today
+\end{minipage}
+&
+\begin{minipage}[t]{0.3\textwidth}
+\raggedleft
+\vspace{6pt}
+\includegraphics[height=1.3cm]{Signature.png}
+\end{minipage}
+
+\end{tabular*}
+\end{center}
+
+% ==================== EDUCATION ====================
+\section*{Education}
+
+\textbf{Johns Hopkins University School of Medicine}, Baltimore, MD \hfill Aug 2024 -- Present\\
+\textit{Ph.D. in Biomedical Engineering} \hfill Advisor: Dr. Adam S. Charles\\
+Activities: Treasurer, BME Ph.D. Student Council
+
+\vspace{2pt}
+
+\textbf{Boston University College of Arts and Sciences}, Boston, MA \hfill Sep 2016 -- May 2020\\
+\textit{B.A. in Mathematics (Statistics) and Biology (CMG)}\\
+Minor in Economics\\
+Awards: Dean’s List (all semesters), UROP Research Award (Fall 2019, Spring 2020), \textit{magna cum laude}
+
+% ==================== PUBLICATIONS ====================
+\section*{Publications}
+
+\subsection*{Peer-Reviewed}
+
+\begin{enumerate}
+\item Guay C, Agrawal U, Tseng B, Gallo S, Schreier D, Brown E (2025). Clinical Electroencephalography for Anesthesiologists and Intensivists Part II: Physiologic Signatures and Active Management. \textit{Anesthesiology}.
+
+\item Breault M, Orguc S, Kwon O, Kang G, Tseng B, Gallo S, Schreier D, Brown E (2024). Anesthetics As Treatments For Depression: Clinical Insights and Underlying Mechanisms. \textit{Annual Review of Neuroscience}.
+
+\item Subramanian S, Tseng B, Carmen M, Goodman A, Dahl D, Barbieri R, Brown E (2024). Monitoring Surgical Nociception Using Multimodal Physiologic Markers. \textit{PNAS}.
+
+\item Subramanian S, Tseng B, Barbieri R, Brown E (2022). An unsupervised automated paradigm for artifact removal from electrodermal activity in an uncontrolled clinical setting. \textit{Physiological Measurement}.
+
+\item Marshall A, Joyce C, Tseng B, et al. (2021). Changes in Pain Self-Efficacy, Coping Skills and Fear Avoidance Beliefs in a Randomized Controlled Trial \ldots \textit{Pain Medicine}.
+
+\item Nojiri T, Chen CY, Kim DM, Tseng B, et al. (2019). Establishment of perpendicular protrusion of type I collagen on TiO$_2$ nanotube surface \ldots \textit{Journal of Nanobiotechnology}.
+\end{enumerate}
+
+\subsection*{Conference Papers}
+
+\begin{enumerate}
+\item Tseng B, Subramanian S, Barbieri R, Brown E (2022). Tonic Electrodermal Activity is a Robust Marker of Psychological and Physiological Changes \ldots \textit{IEEE EMBC}.
+
+\item Subramanian S, Tseng B, Barbieri R, Brown E (2021). Unsupervised Machine Learning Methods for Artifact Removal in Electrodermal Activity \textit{IEEE EMBC}.
+\end{enumerate}
+
+\subsection*{Conference Abstracts}
+
+\begin{enumerate}
+\item Tseng B, Subramanian S, Purdon P, Barbieri R, Brown E (2021). Prediction of unconsciousness using clinically available markers. \textit{IEEE EMBC}.
+
+\item Tseng B, Subramanian S, Purdon P, Barbieri R, Brown E (2021). Multimodal brain-heart analysis reveals subject-specific dynamics during propofol anesthesia \textit{OHBM}.
+\end{enumerate}
+
+\subsection*{Provisional Patent}
+
+\begin{enumerate}
+\item Combinations of Anesthetics as Therapies for Treatment-Resistant Depression (MIT 25342)
+\end{enumerate}
+
+\section*{Research Experience}
+
+\textbf{Johns Hopkins University}, Baltimore, MD \hfill Aug 2020 -- May 2024\\
+Graduate Research Assistant -- Dr. Adam S. Charles
+
+\begin{itemize}
+\item \textbf{Research topic:} Developing \textbf{adaptive stimulation algorithms} for brain-computer interfaces by learning interpretable models of \textbf{neural dynamics} and predictive models of movement.
+\item Designed reaching and head-turn behavioral paradigms to study the effect of \textbf{microstimulation} in the deep cerebellar nuclei using \textbf{Neuropixel Read Write (NPRW) prototype probes}
+    \begin{itemize}
+    \item Assisted with the non-human primate neural recording
+    \end{itemize}
+\item Developed the analysis pipeline based on SpikeInterface for simultaneous high-density electrophysiology recording from \textbf{Utah arrays}, NPRW probes, and \textbf{DeepLabCut} annotated video kinematics data
+    \begin{itemize}
+    \item Neural recording analysis pipeline included artifact correction of stimulation artifact, spike detection, and firing rate estimation
+    \end{itemize}
+\item Analyzed the parameter space of NPRW microstimulation and its corresponding effects on behavior kinematics and evoked neural responses (cortical and deep brain)
+\item Analyzed behaviorally relevant subspaces of neural dynamics in the deep cerebellar nuclei
+\item Deployed analysis pipelines on the high-performance computing cluster provided by Center of Imaging Science
+\end{itemize}
+
+\vspace{6pt}
+
+\textbf{Massachusetts Institute of Technology / MGH}, Cambridge, MA \hfill Aug 2020 -- May 2024\\
+Neuroscience Statistics Research Laboratory (NSRL), Massachusetts General Hospital\\
+Technical Associate — Dr. Emery N. Brown
+
+\begin{itemize}
+\item Implemented state-space multitaper spectral analysis on the electroencephalography (EEG) to track patient’s level of consciousness during general anesthesia
+    \begin{itemize}
+    \item Assisted in integrating the online EEG metrics into an existing closed-loop anesthesia delivery system
+    \end{itemize}
+
+\item Implemented point-process and state-space methods to track patient’s nociceptive state during general anesthesia
+    \begin{itemize}
+    \item Derived from a history-dependent Inverse Gaussian model on the electrocardiogram (EKG) and electrodermal activity (EDA), reaching accuracies of up to 75\%
+    \end{itemize}
+
+\item Investigated the neurophysiological mechanisms underlying the antidepressant effects of anesthetics
+\item Investigated temporal dynamics of brain activity, autonomics, and behavior due to propofol administration
+\item Standardized the lab database and analysis pipeline and integration with the MIT OpenMind computing cluster
+\item Fascilitated the collaboration between NSRL and the Barbieri lab at Politecnico di Milano
+\end{itemize}
+
+\textbf{Clinical Responsibilities — Massachusetts General Hospital}
+
+\begin{itemize}
+\item Led and initiated passive data collection efforts of physiological signals in the ICU, operating room, and electroconvulsive therapy units
+    \begin{itemize}
+    \item Physiological signals from 100+ patients (EEG, EKG, EDA, photoplethysmography)
+    \end{itemize}
+
+\item Performed artifact correction and peak extraction of physiological signals using machine learning methods
+    \begin{itemize}
+    \item Tested isolation forest, K-nearest neighbor distance 1-class support vector machine methods to remove cautery artifact in data collected during surgery
+    \end{itemize}
+
+\item Investigated the clipping and scaling issues of EEG signals from the Masimo Sedline Root device
+\item Managed IRB protocols and data use agreements at MGH
+\end{itemize}
+
+\vspace{6pt}
+
+\textbf{Boston Medical Center}, Boston, MA \hfill Jun 2019 -- Aug 2020\\
+Research Assistant — Dr. Robert Saper and Eric Roseen
+
+\begin{itemize}
+\item Investigated psychometric effects of yoga and physical therapy on adults with chronic lower back pain
+    \begin{itemize}
+    \item Assessed within and between-group change scores of covariates from the Back to Health study in SAS
+    \item Implemented stochastic regression imputation of missing data
+    \end{itemize}
+
+\item Investigated attitudes and beliefs of opioid use disorder patients on non-pharmacologic treatment
+\item Performed Fisher exact analysis on the effects of nonpharmacologic treatment relative to pain medication usage
+\item Funded by the Undergraduate Research Opportunities Program (UROP) (Fall 2019 and Spring 2020)
+\end{itemize}
+
+% -------------------- Leadership --------------------
+\section*{Leadership Experience}
+
+\textbf{Allocation Board of Boston University}, Boston, MA \hfill Sep 2017 -- May 2020\\
+Chair
+
+\begin{itemize}
+\item Worked directly with the Dean of Students to allocate over \$700,000 annually to 300 clubs
+\item Led weekly meetings to approve funding requests from student organizations
+\item Worked with club presidents and treasurers to ensure the proper use of funding
+\item Rewrote the board constitution, handbook, performed audits, and helped design a new recruitment process
+\item Facilitated the transition to a new finance and event planning platform through workshops and advertisement
+\item Interviewed and led training processes for new members
+\item Helped to coordinate large campus-wide events such as the first BU spring concert
+\end{itemize}
+
+% -------------------- Volunteer --------------------
+\section*{Volunteer Experience}
+
+\begin{itemize}
+\item Peer mentor at Boston University Department of Mathematics and Statistics \hfill Sep 2019 -- May 2020
+    \begin{itemize}
+    \item One-on-one mentorship for Freshman students, hosted department-sponsored events
+    \end{itemize}
+
+\item Big Brothers and Big Sisters of Mass Bay \hfill Sep 2017 -- May 2019
+    \begin{itemize}
+    \item Mentorship of youth in the Greater Boston Area in a biweekly camp
+    \end{itemize}
+\end{itemize}
+
+\end{document}
