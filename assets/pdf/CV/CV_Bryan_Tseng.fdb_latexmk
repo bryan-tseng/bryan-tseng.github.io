@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1770926100.34672 "/Users/bryan/Library/CloudStorage/GoogleDrive-bryan@neurostat.mit.edu/My Drive/bryan-tseng.github.io/assets/pdf/CV/CV_Bryan_Tseng.tex" "CV_Bryan_Tseng.pdf" "CV_Bryan_Tseng" 1770926100.91761 0
-  "/Users/bryan/Library/CloudStorage/GoogleDrive-bryan@neurostat.mit.edu/My Drive/bryan-tseng.github.io/assets/pdf/CV/CV_Bryan_Tseng.tex" 1770926100.18549 10152 8b09cf2e5e17035144a8adc39a84f523 ""
+["pdflatex"] 1770930260.88764 "/Users/bryan/Library/CloudStorage/GoogleDrive-bryan@neurostat.mit.edu/My Drive/bryan-tseng.github.io/assets/pdf/CV/CV_Bryan_Tseng.tex" "CV_Bryan_Tseng.pdf" "CV_Bryan_Tseng" 1770930261.50804 0
+  "/Users/bryan/Library/CloudStorage/GoogleDrive-bryan@neurostat.mit.edu/My Drive/bryan-tseng.github.io/assets/pdf/CV/CV_Bryan_Tseng.tex" 1770930260.70474 10156 e09fb83968412b7b089ed7a525c359e7 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -111,9 +111,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1762183636 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "CV_Bryan_Tseng.aux" 1770926100.86915 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "CV_Bryan_Tseng.out" 1770926100.69723 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV_Bryan_Tseng.tex" 1770926100.18549 10152 8b09cf2e5e17035144a8adc39a84f523 ""
+  "CV_Bryan_Tseng.aux" 1770930261.45915 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "CV_Bryan_Tseng.out" 1770930261.30201 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV_Bryan_Tseng.tex" 1770930260.70474 10156 e09fb83968412b7b089ed7a525c359e7 ""
   "Signature.png" 1770925997.37952 33251 f95af7c813c71893a5905f054655bb65 ""
   (generated)
   "CV_Bryan_Tseng.aux"
