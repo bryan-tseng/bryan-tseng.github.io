@@ -14,4 +14,4 @@ During surgery, accurately assessing a patient's level of nociception (pain proc
 
 **Impact:** Better nociception monitoring can reduce over- or under-dosing of analgesics, improving patient outcomes and recovery.
 
-*Published in the Proceedings of the National Academy of Sciences (2024).*
+_Published in the Proceedings of the National Academy of Sciences (2024)._

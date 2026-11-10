@@ -14,4 +14,4 @@ Treatment-resistant depression (TRD) affects millions of patients who do not res
 
 **Patent:** This research led to a provisional patent filed with the MIT Technology Licensing Office for combinations of anesthetics as therapies for TRD (MIT 25342).
 
-*Published in the Annual Review of Neuroscience (2025). Work conducted at the Neural Statistics Research Laboratory, MIT Picower Institute.*
+_Published in the Annual Review of Neuroscience (2025). Work conducted at the Neural Statistics Research Laboratory, MIT Picower Institute._

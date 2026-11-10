@@ -16,4 +16,4 @@ I am developing stimulation algorithms for brain-computer interfaces (BCIs) that
 
 **Methods:** Adaptive control, state-space modeling, machine learning, high-dimensional statistics, computational neuroscience.
 
-*This work is ongoing at the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/) at Johns Hopkins University.*
+_This work is ongoing at the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/) at Johns Hopkins University._

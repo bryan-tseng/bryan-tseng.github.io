@@ -14,4 +14,4 @@ Electroencephalography (EEG) provides a direct window into brain activity during
 
 **Scope:** The work covers both the operating room (surgical anesthesia) and the ICU (sedation management), providing a unified framework for interpreting EEG across clinical contexts.
 
-*Published in Anesthesiology (2025). Work conducted at the Neural Statistics Research Laboratory, MIT Picower Institute.*
+_Published in Anesthesiology (2025). Work conducted at the Neural Statistics Research Laboratory, MIT Picower Institute._

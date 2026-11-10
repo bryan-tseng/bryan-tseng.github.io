@@ -14,4 +14,4 @@ Electrodermal activity (EDA) is a sensitive measure of autonomic nervous system 
 
 **Impact:** Clean EDA signals enable downstream analyses — such as nociception monitoring and anesthesia depth tracking — that depend on reliable autonomic signal quality.
 
-*Published in Physiological Measurement (2022). Work conducted at the Neural Statistics Research Laboratory, MIT Picower Institute.*
+_Published in Physiological Measurement (2022). Work conducted at the Neural Statistics Research Laboratory, MIT Picower Institute._

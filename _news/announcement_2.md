@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 [Monitoring surgical nociception using multisensor physiological models](https://www.pnas.org/doi/10.1073/pnas.2319316121)
-
