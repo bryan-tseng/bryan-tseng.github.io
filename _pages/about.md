@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 I’m a third-year PhD student working with [Dr. Adam S. Charles](https://www.bme.jhu.edu/ascharles/bio-contact/) at the
-[Department of Biomedical Engineering](https://www.bme.jhu.edu/). At the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/), I am developing closed-loop and adaptive deep brain stimulation algorithms. My focus is on learning predictive models of cerebellar and motor dynamics from population recordings, and designing Bayesian adaptive stimulation policies that select optimal stimulation patterns in real time. I work with microstimulation of the deep cerebellar nuclei in non-human primates using Neuropixels Read-Write prototype probes, with the long-term goal of supporting cerebellar prostheses.
+[Department of Biomedical Engineering](https://www.bme.jhu.edu/). At the [Neural Signals Lab](https://www.bme.jhu.edu/ascharles/), I am developing closed-loop, adaptive deep brain stimulation algorithms that select optimal stimulation patterns in real time. Our approach learns how stimulation perturbs latent neural dynamics, building a predictive model of cerebellar and motor cortex activity that guides which pattern to try next. I work with neural recordings from non-human primates, with the long-term goal of enabling cerebellar prostheses.
 
 More broadly, I’m excited about applying ideas from adaptive control systems, machine learning, high-dimensional statistics, and computational neuroscience to understand and interact with neural circuits in real time.
 
